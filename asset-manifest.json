@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sama-bus/static/css/main.323d7611.css",
+    "main.js": "/sama-bus/static/js/main.46b35665.js",
+    "static/js/453.ae3134dd.chunk.js": "/sama-bus/static/js/453.ae3134dd.chunk.js",
+    "index.html": "/sama-bus/index.html",
+    "main.323d7611.css.map": "/sama-bus/static/css/main.323d7611.css.map",
+    "main.46b35665.js.map": "/sama-bus/static/js/main.46b35665.js.map",
+    "453.ae3134dd.chunk.js.map": "/sama-bus/static/js/453.ae3134dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.323d7611.css",
+    "static/js/main.46b35665.js"
+  ]
+}
